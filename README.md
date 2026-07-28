@@ -1,7 +1,7 @@
 <h1 align="center">I AM SANJIB</h1>
 
 
-ABOUT ME:
+
 Developer<br><br>Build. Scale. Automate.<br>Turning caffeine into code.<br><br>
 
 SOCIALS:
