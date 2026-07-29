@@ -2,7 +2,8 @@
 
 
 
-Developer<br><br>Build. Scale. Automate.<br>Turning caffeine into code.<br><br>
+<h3>Developer</h3>
+<h4><br><br>Build. Scale. Automate.<br>Turning caffeine into code.<br><br></h4>
 
 SOCIALS:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanjib-kumar-60ba4234a/) 
